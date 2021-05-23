@@ -1,0 +1,37 @@
+.seat_price  {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.reserved {
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+.reserve_button {
+  background: #898989;
+  border: none;
+  border-radius: 5px;
+  color: #F5F5F5;
+  padding: 10px;
+  margin-left: 10px;
+  position: relative;
+  top: -5px;
+  width: 100px
+}
+
+.is_reserved {
+  background: #D67B60 !important;
+}
+
+.seat_item h4, .seat_item h5 {
+  margin: 0px;
+}
+
+.seat_item h5 {
+  color: #898989;
+}
+
+.seat_item div {
+  float: right;
+}

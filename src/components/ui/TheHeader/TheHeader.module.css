@@ -1,0 +1,13 @@
+.header {
+  background-color: #D67B60;
+  height: 75px;
+  line-height: 75px;
+  width: 100%;
+}
+
+.header_title {
+  color: #F9F9F9;
+  display: inline-block;
+  font-size: 20px;
+  padding: 0px 20px;
+}

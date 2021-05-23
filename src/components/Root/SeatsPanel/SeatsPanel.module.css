@@ -1,0 +1,13 @@
+.seats_panel {
+  background-color: #F5F5F5;
+  margin: 25px;
+  padding: 25px;
+}
+
+.seats_panel h3 {
+  margin-top: 0px;
+}
+
+.seats_panel h5 {
+  color: darkred;
+}

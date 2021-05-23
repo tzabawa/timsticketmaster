@@ -1,0 +1,55 @@
+.reservation_submission_form {
+  background: #F9F9F9;
+  height: 400px;
+  overflow-y: scroll;
+  padding: 20px;
+}
+
+.customer_data_form, .reservations_summary {
+  background: #E9E9E9;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.customer_data_form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.customer_data_form input {
+  font-size: 15px;
+  height: 30px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.form_title, .reservations_summary h5  {
+  margin-top: 0px;
+}
+
+.reservation_details h4, .reservation_details h5 {
+  margin: 0px;
+}
+
+.reservation_details h5 {
+  color: #898989;
+}
+
+.reservation_details div {
+  float: right;
+}
+
+.form_button {
+  background: #2E2E2E;
+  border: none;
+  border-radius: 5px;
+  color: #F9F9F9;
+  font-size: 15px;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+.form_button:disabled {
+  cursor: no-drop;
+  opacity: 0.4;
+}

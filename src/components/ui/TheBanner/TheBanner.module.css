@@ -1,0 +1,19 @@
+.banner {
+  color: #F9F9F9;
+  background-color: #898989;
+  min-height: 60px;
+  text-align: center;
+}
+
+.banner_title, .banner_sub_title {
+  text-transform: uppercase;
+}
+
+.banner_title {
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.banner_sub_title {
+  font-size: 15px;
+}

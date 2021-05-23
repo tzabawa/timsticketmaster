@@ -1,0 +1,42 @@
+.event_search_form {
+  background: #F9F9F9;
+  padding: 20px;
+}
+
+.event_search_form h3 {
+  margin-top: 0px;
+}
+
+.form {
+  background: #E9E9E9;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form select {
+  height: 30px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.form button {
+  background: #2E2E2E;
+  border: none;
+  border-radius: 5px;
+  color: #F9F9F9;
+  font-size: 15px;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+.loading-view {
+  font-style: italic;
+  line-height: 100px;
+  height: 100px;
+  text-align: center;
+}
